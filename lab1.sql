@@ -1,1 +1,1 @@
-SELECT * FROM Student_Grades
+SELECT student_name FROM Student_Grades
