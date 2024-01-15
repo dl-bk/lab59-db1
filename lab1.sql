@@ -1,1 +1,1 @@
-SELECT DISTINCT country FROM Student_Grades
+SELECT DISTINCT group_name FROM Student_Grades
