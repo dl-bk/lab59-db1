@@ -1,1 +1,1 @@
-CREATE DATABASE Sample;
+ALTER DATABASE sample RENAME TO example;
